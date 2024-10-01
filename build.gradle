@@ -19,7 +19,7 @@ publishing {
     }
 }
 
-group = "com.github.StarMediaDevelopmentLLC"
+group = "com.github.StarDevelopmentLLC"
 version = "0.1.0"
 
 java {
